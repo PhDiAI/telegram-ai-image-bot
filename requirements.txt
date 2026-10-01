@@ -1,0 +1,4 @@
+Flask
+python-telegram-bot>=21,<22
+huggingface_hub
+Pillow
